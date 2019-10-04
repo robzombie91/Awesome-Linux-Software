@@ -54,26 +54,8 @@
 
 ***********
 
-- [Setup](#setup)
-   - [ArchLinux](#arch-linux)
-   - [Bodhi](#bodhi)
-   - [CentOS](#centos)
-   - [Fedora](#fedora)
-   - [openSUSE](#opensuse)
-   - [Ubuntu](#ubuntu)
-- [Discussion Forums](#discussion-forums)
-   - [ArchLinux Forums](#arch-linux-forums)
-   - [CentOS Forums](#centos-forums)
-   - [Fedora Forums](#fedora-forums)
-   - [Ubuntu Forums](#ubuntu-forums)
-   - [openSUSE Forums](#opensuse-forums)
-   - [IRC channels](#irc-channels)
-   - [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
-   - [Reddit](#reddit)
-- [Learn Linux](#learn-linux)
-- [Linux Hacking/Development](#linux-hackingdevelopment)
-- [Advanced Linux](#advanced-linux)
-- [Other Awesome Lists](#other-awesome-lists)
+- [Linux News, Apps, and more ....](#linux-news-apps-and-more-)
+- [Reddit](#reddit)
 - [Contributors](#contributors)
 - [Guideline to Contribute](#guideline-to-contribute)
 - [How to Contribute](#unsure-how-to-contribute)
@@ -189,6 +171,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - Secure communication. Full privacy.
 
 ### Data Backup and Recovery
+- [![Open-Source Software][OSS Icon]](https://backintime-dev.readthedocs.io/en/latest/) [Back In Time](https://github.com/bit-team/backintime/) - A simple backup tool for Linux, inspired by "flyback project".
 - [![Open-Source Software][OSS Icon]](https://borgbackup.readthedocs.io/en/stable/development.html) [Borg Backup](https://borgbackup.readthedocs.io/en/stable/) - A nice tool to backup data.
 - [![Open-Source Software][OSS Icon]](https://github.com/bup/bup) [bup](https://bup.github.io/) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images).
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/World/deja-dup) [Deja Dup](https://launchpad.net/deja-dup) - A simple backup tool with built-in encryption.
@@ -225,6 +208,7 @@
 - [![Open-Source Software][OSS Icon]](https://git.opendesktop.org/akiraohgaki/ocs-store) [OCS store](https://www.opendesktop.org/p/1175480/) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.
 - [![Open-Source Software][OSS Icon]](https://github.com/themix-project/oomox) [Oomox theme generator](https://github.com/themix-project/oomox) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), Gnome-Colors and Archdroid icons.
 - [![Open-Source Software][OSS Icon]](https://github.com/jaagr/polybar) [Polybar](https://github.com/jaagr/polybar) - Fast and easy-to-use status bar.
+- [![Open-Source Software][OSS Icon]](https://github.com/LemonBoy/bar)[Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/deviantfero/wpgtk) [Wpgtk](https://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
 
 #### Desktop Icon Packs
@@ -369,7 +353,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
 - [![Open-Source Software][OSS Icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gedit) [Gedit](https://wiki.gnome.org/Apps/Gedit) -gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
-- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ developement (Cmake integrated).
+- [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gnome-builder) [Gnome Builder](https://wiki.gnome.org/Apps/Builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ development (Cmake integrated).
 - [![Open-Source Software][OSS Icon]](https://github.com/mawww/kakoune) [Kakoune](https://kakoune.org/) - Kakoune code editor - Vim inspired. Faster as in less keystrokes. Multiple selections. Orthogonal design. Has a strong focus on interactivity.
 - [![Open-Source Software][OSS Icon]](https://kate-editor.org/build-it/) [Kate](https://kate-editor.org/get-it/) - Kate is a multi-document editor part of KDE since release 2.2.
 - [![Open-Source Software][OSS Icon]](https://github.com/Komodo/KomodoEdit) [Komodo Edit](https://github.com/Komodo/KomodoEdit) - Free and open source multilanguage development environment.
@@ -511,6 +495,7 @@
 - [![Open-Source Software][OSS Icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn't limited to the standard tetrominoes that most games in it's genre are limited to.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gbrainy/) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy is a brain teaser game with logic puzzles and memory trainers.
 - ![Nonfree][Money icon] [Minecraft](https://minecraft.net) - Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles.
+- ![Open-Source Software][OSS Icon] ![Nonfree][Money icon] [Mcpelauncher](https://github.com/minecraft-linux/mcpelauncher-manifest) - Unoffical Open-source launcher for Minecraft: Bedrock edition
 - [![Open-Source Software][OSS Icon]](https://github.com/minetest/minetest/) [Minetest](https://minetest.net) - Open-source Minecraft written in C++ (uses less resources) and includes modding API.
 - [![Open-Source Software][OSS Icon]](https://github.com/Mudlet/Mudlet) [Mudlet](https://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 - [![Open-Source Software][OSS Icon]](https://github.com/Neverball/neverball) [Neverball](https://neverball.org/) - Addictive ball-rolling game with many levels, avatars and an ability to record replays.
@@ -522,6 +507,7 @@
 - [![Open-Source Software][OSS Icon]](https://xmoto.tuxfamily.org/index.php) [XMoto](https://xmoto.tuxfamily.org/) - 2D motocross physics-based game requiring a lot of skill to master, with a built-in replay-recording and sharing system.
 
 #### Engine Re-creations (require the actual game)
+- [![Open-Source Software][OSS Icon]](https://github.com/wheybags/freeablo) [Freeablo](https://freeablo.org/) - A free recreation of the original Diablo game engine that runs natively on Linux. Requires the original game assets.
 - [![Open-Source Software][OSS Icon]](http://nxengine.sourceforge.net/) [NXEngine](http://nxengine.sourceforge.net/) - A source port of Cave Story that runs natively on Linux, source needs to be built.
 - [![Open-Source Software][OSS Icon]](https://github.com/SFTtech/openage) [openage](https://openage.sft.mx/) - Free (as in freedom) open source clone of the Age of Empires II engine, source needs to be built.
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenMW/openmw) [OpenMW](https://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
@@ -591,6 +577,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/digikam) [Digikam](https://www.digikam.org/) - DigiKam is an advanced digital photo management application for Linux.
 - [![Open-Source Software][OSS Icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - lightweight and fast image viewer.
 - [![Open-Source Software][OSS Icon]](http://www.kornelix.net/downloads/downloads.html) [Fotoxx](https://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.
+- [![Open-Source Software][OSS Icon]](https://github.com/BestImageViewer/geeqie) [geeqie](http://www.geeqie.org/) - image viewer / photo collection browser. Successor of GQview.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gthumb/) [gThumb](https://wiki.gnome.org/Apps/Gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).
 - [![Open-Source Software][OSS Icon]](https://cgit.kde.org/gwenview.git/tree//?) [gwenview](https://userbase.kde.org/Gwenview) - Simple yet powerful image viewer and management for KDE desktops.
 - [![Open-Source Software][OSS Icon]](https://github.com/meowtec/Imagine) [Imagine](https://github.com/meowtec/Imagine) - An open source image optimizer that can shrink the size of images with a minimal loss of quality.
@@ -598,6 +585,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/peterlevi/ojo) [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer.
 - [![Open-Source Software][OSS Icon]](https://github.com/ivandokov/phockup) [Phockup](https://github.com/ivandokov/phockup) - Command line sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [![Open-Source Software][OSS Icon]](https://github.com/oferkv/phototonic) [Photonic](https://github.com/oferkv/phototonic) - Phototonic is image viewer and organizer.
+- [![Open-Source Software][OSS Icon]](https://github.com/kanryu/quickviewer) [quickviewer](https://kanryu.github.io/quickviewer/) - very fast image/comic viewer by using OpenGL.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/shotwell) [Shotwell](https://wiki.gnome.org/Apps/Shotwell) - Shotwell is a photo manager for GNOME 3.
 
 #### Miscellaneous
@@ -635,6 +623,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jliljebl/flowblade) [Flowblade](https://github.com/jliljebl/flowblade) - A multitrack non-linear video editor for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/kdenlive) [Kdenlive](https://kdenlive.org/) - Kdenlive is a Non-Linear Video Editor, which is much more powerful than beginners’ (linear) editors.
 - ![Nonfree][Money Icon] [Lightworks](https://www.lwks.com/) - Professional non-linear video editing program with a free version available.
+- [![Open-Source Software][OSS Icon]](https://github.com/olive-editor/olive) [Olive](https://www.olivevideoeditor.org/) - Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
 - [![Open-Source Software][OSS Icon]](https://github.com/OpenShot/openshot-qt) [OpenShot](https://www.openshot.org/) - OpenShot is a free, simple-to-use, feature-rich video editor for Linux.
 - [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/pitivi) [Pitivi](http://www.pitivi.org/) - A free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
 - [![Open-Source Software][OSS Icon]](https://github.com/mltframework/shotcut) [Shotcut](https://www.shotcut.org/) - Shotcut is a free, open source, cross-platform video editor with support for hundreds of audio and video formats and codecs and a sleek, intuitive interface.
@@ -797,6 +786,7 @@
 #### Compartmentalization
 - [![Open-Source Software][OSS Icon]](https://github.com/netblue30/firejail) [Firejail](https://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using [Linux namespaces](https://lwn.net/Articles/531114/) and [seccomp-bpf](https://l3net.wordpress.com/2015/04/13/firejail-seccomp-guide/).
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/kvm/files/) [KVM](https://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
+- [![Open-Source Software][OSS Icon]](https://github.com/nanovms/ops/) [ops](https://github.com/nanovms/ops) - OPS is a tool that builds, runs and deploys ordinary linux applications as unikernels.
 - [![Open-Source Software][OSS Icon]](https://www.virtualbox.org/wiki/Contributor_information) [Virtualbox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 
 #### Firewall
@@ -869,6 +859,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME) [GnomeTerminal](https://help.gnome.org/users/gnome-terminal/stable/) - A widely preinstalled terminal emulator in Linux world.
 - [![Open-Source Software][OSS Icon]](https://github.com/Guake/guake) [Guake](http://guake.org/) - Guake is a top-down terminal for Gnome.
 - [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) [Hyper](https://hyper.is/) - A terminal built on web technologies.
+- [![Open-Source Software][OSS Icon]](https://github.com/KeyLo99/k3rmit) [K3rmit](https://github.com/KeyLo99/k3rmit) - A VTE-based terminal emulator that aims to be simple, fast and effective.
 - [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/kitty) [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, OpenGL based terminal emulator.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/konsole) [Konsole](https://konsole.kde.org/) - An alternative terminal emulator for KDE desktop environment.
 - [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/rxvt/) [RXVT](http://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard ‘xterm’.
@@ -885,6 +876,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux) [Tmux](https://github.com/tmux/tmux) - It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
 - [![Open-Source Software][OSS Icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - Fast, lightweight text-mode window environment with mouse support. Enables multiple terminals in a single Linux console, terminal or X11 window. It can be detached (keeps running in background) and reattached to a different console, terminal or X11 server. Works on Linux, Mac OS X and BSD.
 - [![Open-Source Software][OSS Icon]](https://github.com/railsware/upterm) [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on [Electron](https://electronjs.org/).
+- [![Open-Source Software][OSS Icon]](https://github.com/saulpw/visidata) [Visidata](http://visidata.org/) - A terminal spreadsheet multitool for discovering and arranging data.
 - [![Open-Source Software][OSS Icon]](http://invisible-island.net/xterm/) [Xterm](https://invisible-island.net/xterm/) - The Xterm program is a terminal emulator for the X Window System. It provides DEC VT102 and Tektronix 4014 compatible terminals for programs that can't use the window system directly.
 - [![Open-Source Software][OSS Icon]](https://github.com/KDE/yakuake) [Yakuake](https://yakuake.kde.org/) - A Quake-style terminal emulator based on KDE Konsole technology.
 
@@ -893,11 +885,13 @@
 #### Disk Utilities
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/brasero) [Brasero](https://wiki.gnome.org/Apps/Brasero) - A capable CD/DVD burner.
 - [![Open-Source Software][OSS Icon]](http://clonezilla.org/related-links/) [Clonezilla](https://clonezilla.org/) - Clonezilla is a partition and disk imaging/cloning program similar to True Image® or Norton Ghost®.
+- [![Open-Source Software][ISS Icon]](https://github.com/zevv/duc) [Duc](https://duc.zevv.nl/) - Duc, a library and suite of tools for indexing, and visualizing inspecting disk usage.
 - [![Open-Source Software][OSS Icon]](https://github.com/balena-io/etcher) [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards & USB drives, safely and easily.
+- [![Open-Source Software][OSS Icon]](https://github.com/mbusb/multibootusb) [MultiBootUSB](http://multibootusb.org/) - MultiBootUSB allows you to install multiple live linux on a USB disk.
 - [![Open-Source Software][OSS Icon]](https://github.com/GNOME/gparted) [GParted](https://gparted.org/) - Disk Partition utility for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/unetbootin/unetbootin) [Unetbootin](https://unetbootin.github.io) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions. You can either let UNetbootin download one of the many distributions supported out-of-the-box for you, or supply your own Linux .iso file.
 
-#### System Maintainance
+#### System Maintenance
 - [![Open-Source Software][OSS Icon]](https://code.launchpad.net/~teejee2008/apt-toolkit/trunk) [Aptik](https://launchpad.net/apt-toolkit) - A tool for you to organize your Favorite PPAs and manage Packages Easily.
 - [![Open-Source Software][OSS Icon]](https://github.com/bleachbit/bleachbit) [Bleach bit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
 - [![Open-Source Software][OSS Icon]](https://github.com/sahib/rmlint) [rmlint](https://rmlint.readthedocs.io/en/latest/) - rmlint finds space waste and other broken things on your filesystem and offers to remove it.
@@ -993,7 +987,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/junegunn/fzf) [fzf](https://github.com/junegunn/fzf) - A general-purpose command-line fuzzy finder with interactive filter and preview feature for things like files, command history, git commits, hostnames, etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/mikf/gallery-dl) [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from pixiv, exhentai, danbooru and more.
 - [![Open-Source Software][OSS Icon]](https://github.com/heppu/gkill) [Gkill](https://github.com/heppu/gkill) - An interactive process killer for Linux.
-- [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) [Glances](https://nicolargo.github.io/glances/) - Glances is a system monitoring terminal application that shows you your disk usage, ram usage, and cpu usage in a very friendly way using the Ncurses programming library. It is tolerant to windows resizing, and very low on system ram useage.
+- [![Open-Source Software][OSS Icon]](https://github.com/nicolargo/glances) [Glances](https://nicolargo.github.io/glances/) - Glances is a system monitoring terminal application that shows you your disk usage, ram usage, and cpu usage in a very friendly way using the Ncurses programming library. It is tolerant to windows resizing, and very low on system ram usage.
 - [![Open-Source Software][OSS Icon]](https://github.com/jarun/googler) [Googler](https://github.com/jarun/googler) - A program that can Google anything right in the command line.
 - [![Open-Source Software][OSS Icon]](https://github.com/aksakalli/gtop) [gtop](https://github.com/aksakalli/gtop) - A system monitoring dashboard for terminal. Think 'graphical top', with bar charts, line graphs, pie charts, and etc.
 - [![Open-Source Software][OSS Icon]](https://github.com/hishamhm/htop) [htop](https://hisham.hm/htop/) - An interactive process viewer for Unix systems with improved features and user experience.
@@ -1076,101 +1070,6 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/conformal/spectrwm) [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11, largely inspired by xmonad and dwm.
 - [![Open-Source Software][OSS Icon]](https://github.com/xmonad/xmonad) [xmonad](https://xmonad.org) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 
-## Setup
-
-- [What is Linux](https://www.linux.com/what-is-linux)
-- [Basic Linux terms](https://www.makeuseof.com/tag/linux-confusing-key-terms-definitions/)
-- [Choosing Distro that Suits You Best](https://i.imgur.com/TV21DgN.jpg)
-- [38 Things To Do After Installing Ubuntu](https://www.lifewire.com/things-to-do-installing-ubuntu-2200611)
-- [What do the commands on the command line mean?](https://www.explainshell.com) [![Open-Source Software][OSS Icon]](https://github.com/idank/explainshell)
-
-### Arch Linux
-
-- [Getting and installing Arch](https://wiki.archlinux.org/index.php/Category:Installation_process)
-- [Installation guide](https://wiki.archlinux.org/index.php/Installation_guide)
-- [General recommendations](https://wiki.archlinux.org/index.php/General_recommendations)
-- [List of applications](https://wiki.archlinux.org/index.php/List_of_applications)
-
-### Bodhi
-
-- [What is Bodhi](https://en.wikipedia.org/wiki/Bodhi_Linux)
-- [Where to download Bodhi](https://www.bodhilinux.com/download/)
-- [How do I install Bodhi](https://www.bodhilinux.com/w/installation-instructions/)
-
-### CentOS
-
-- [Official website](https://www.centos.org)
-- [About](https://wiki.centos.org/About)
-- [Downloads](https://wiki.centos.org/Download)
-- [Manuals](https://docs.centos.org/en-US/docs/)
-- [Tips and Tricks](https://wiki.centos.org/TipsAndTricks)
-- [FAQ](https://www.centos.org/forums/app.php/help/faq)
-
-### Fedora
-
-- [What is Fedora?](https://docs.fedoraproject.org/en-US/project/)
-- [Where to download Fedora](https://getfedora.org)
-- [How do I install Fedora?](https://docs.fedoraproject.org/en-US/fedora/f26/install-guide/install/Preparing_for_Installation/index.html)
-- [Ask Fedora](https://ask.fedoraproject.org/en/questions/)
-
-### openSUSE
-
-- [What is openSUSE](https://www.techopedia.com/definition/28543/opensuse)
-- [Reasons to try openSUSE](https://www.pcworld.com/article/222065/5_reasons_to_try_opensuse_114.html)
-- [Beginner's FAQ](https://en.opensuse.org/openSUSE:OpenSUSE_for_beginners)
-- [How to install openSUSE](https://en.opensuse.org/Portal:Installation)
-- [Review](https://www.linux.com/news/opensuse-leap-421-review-most-mature-linux-distribution)
-
-### Ubuntu
-
-- [What is Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(operating_system))
-- [How to install Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop)
-- [What to do after installing Ubuntu](https://www.omgubuntu.co.uk/2016/04/10-things-to-do-after-installing-ubuntu-16-04-lts)
-
-### Other distros
-
-> To be added later
-
-## Discussion Forums
-
-### Arch Linux Forums
-
-* [Arch Linux Forums](https://bbs.archlinux.org/)
-* [Arch Linux ARM Forums](https://archlinuxarm.org/forum/viewforum.php?f=31)
-
-### Bodhi Linux Forums
-
-* [Bodhi Linux Forums](https://www.linuxquestions.org/questions/bodhi-92/)
-
-### CentOS Forums
-
-* [CentOS Forums](https://www.centos.org/forums/)
-
-### Fedora Forums
-
-* [Fedora Forums](https://forums.fedoraforum.org/index.php)
-
-### Ubuntu Forums
-
-* [Ubuntu Forum](https://ubuntuforums.org/)
-* [Ask Ubuntu](https://askubuntu.com/)
-
-### openSUSE Forums
-
-* [openSUSE Forum](https://forums.opensuse.org/forum.php)
-
-
-
-### IRC channels
-
-* [#linux](http://webchat.freenode.net/?channels=#linux)
-* [#ubuntu](https://webchat.freenode.net/?channels=ubuntu)
-* [#archlinux](http://webchat.freenode.net/?channels=archlinux)
-* [#debian](http://webchat.freenode.net/?channels=debian)
-* [#gentoo](http://webchat.freenode.net/?channels=gentoo)
-* [#docker](http://webchat.freenode.net/?channels=docker)
-* [#bash](http://webchat.freenode.net/?channels=bash)
-
 ### Linux News, Apps, and more:
 
 * [OMG!Ubuntu](https://www.omgubuntu.co.uk/)
@@ -1201,39 +1100,6 @@
 * [Unix Porn](https://www.reddit.com/r/unixporn/)
 * [Linux Kernel](https://www.reddit.com/r/kernel/)
 * [Linux Gaming](https://www.reddit.com/r/linux_gaming/)
-
-## Learn Linux
-
-- [Beginner's guide to Linux](https://www.linux.com/learn/complete-beginners-guide-linux%20)
-- [Learn Linux Command](http://linuxcommand.org/)
-- [GNU/Linux Command-Line Tools Summary](https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/book1.htm)
-- [Learn Linux](https://linuxjourney.com/)
-- [Linux Course](https://www.edx.org/course/introduction-to-linux)
-- [Linux Pocket Guide](https://www.tldp.org/LDP/Pocket-Linux-Guide/Pocket-Linux-Guide.pdf)
-- [Programming Community Curated Resources for learning Linux](https://hackr.io/tutorials/learn-linux-system-administration)
-
-## Linux Hacking/Development
-
-- [Kernel Newbies](https://kernelnewbies.org/)
-- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-- [The Linux Kernel](https://www.tldp.org/LDP/tlk/tlk.html)
-- [Linux Kernel Archives (Official Website)](https://www.kernel.org/)
-- [Linux Kernel Internals (PDF)](https://www.tldp.org/LDP/lki/lki.pdf)
-- [Linux Kernel Mailing List Archive](https://lkml.org/)
-- [Linux Kernel Module Programming Guide (PDF)](https://www.tldp.org/LDP/lkmpg/2.6/lkmpg.pdf)
-
-## Advanced Linux
-
-- [Virtual Containers](https://github.com/Citrix-TechSpecialist/Docker-101)
-- [Virtualization with Virtualbox](https://www.virtualbox.org/manual/ch01.html)
-
-## Other Awesome Lists
-
-*These are the list that I highly recommended:*
-- [Awesome Linux Audio](https://github.com/nodiscc/awesome-linuxaudio)
-- [Awesome Self-hosted](https://github.com/kickball/awesome-selfhosted)
-- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
-
 ## Contributors
 
 Thanks to [**All of Github contributors**](https://github.com/LewisVo/Awesome-Linux-Software/graphs/contributors) for making this list possible and
